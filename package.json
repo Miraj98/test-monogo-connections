@@ -1,0 +1,11 @@
+{
+  "name": "test-mongo-connections",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^6.4.6",
+    "nanoid": "^4.0.0"
+  }
+}
